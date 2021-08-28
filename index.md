@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to DHUer.com, a website for DHUer!
 
-You can use the [editor on GitHub](https://github.com/sLee0709/dhuer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a website for DHUer to discuss the university life. Job recruitment information will be provided as well.
 
 ### Markdown
 
